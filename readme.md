@@ -1,8 +1,8 @@
 # git backup is the 80 20 of backing up your repositories
 
 ### The problem
-I think ephemeral workspaces are a good idea. Even if its on my computer. 
-Whot happens of the homeless guy muggs me on my way to sarbucks to work and takes my takes my sticker holder?
+Ephemeral workspaces are a good idea. Even if its on my local computer. 
+What happens of the homeless guy mugs me on my way to sarbucks to work and takes my takes my sticker holder?
 I want the set up to be easy and fast.
 How ever that means I ofter only have one copy of my repositories. Github.
 
