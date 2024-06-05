@@ -8,7 +8,7 @@ How ever that means I ofter only have one copy of my repositories. Github.
 
 * microsoft buys github and shuts it down. (just kidding its not google)
 * github gets ddosed again
-* a soler flare goes off and my data is destroyed
+* a soler flare destroys my data
 * the data center github is storing data in gits hit with container ship that lost power
 
 ### The Goal
